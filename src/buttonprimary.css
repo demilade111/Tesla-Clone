@@ -1,0 +1,16 @@
+.buttonprimary{
+    background-color: #3e6ae1;
+    border:none;
+    padding: 12px 40px;
+    color:white;
+    border-radius: 50px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom:20px;
+    outline: none;
+    transition: all 0.4s
+}
+.buttonprimary:hover{
+   background-color: #3457b1;
+}
+

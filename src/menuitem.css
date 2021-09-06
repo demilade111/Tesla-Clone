@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+.menuItem {
+  border-bottom: 1px solid #d0d1d2;
+  text-align: left;
+  cursor: pointer;
+}
+.menuItem > h4 {
+  font-weight:600;
+  letter-spacing: 5px;
+  font-size: 12px;
+  padding-bottom: 15px;
+  padding-right: 10px;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+  text-transform: uppercase;
+}
